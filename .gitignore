@@ -1,0 +1,8 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment variables file
+.env
